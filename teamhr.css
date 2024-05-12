@@ -1,0 +1,116 @@
+p  {
+	color: #333333;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 
+12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	line-height: 20px;
+}
+.caption {
+	color: #333333;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 
+10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFFFFF;
+}
+
+h1   {  color: #666666; font-variant: normal; font-weight: bold; font-size: 
+36px; font-family: Verdana, Arial, Helvetica, sans-serif }
+body {
+	background-color: #F3ECE2;
+	left: 0px;
+	clip:  rect(0px auto auto auto);
+	
+}
+h2 {  font: bold 16px/18px Verdana, Arial, Helvetica, sans-serif; color: #666666}
+a:link
+{
+	font:  12px/18px Verdana, Arial, Helvetica, sans-serif;
+	color: #006666;
+	text-decoration: none;
+	
+} 
+a:visited 
+{ 
+    font:  12px/18px Verdana, Arial, Helvetica, sans-serif;
+    color: #990000;
+	
+	text-decoration: none;
+	
+}a:hover
+{
+	
+	font:  12px/18px Verdana, Arial, Helvetica, sans-serif;
+	color: #C91F16;
+	background: #CCCCFF;
+	text-decoration: none;
+	
+} 
+	
+}a:active
+{
+	
+	font:  12px/18px Verdana, Arial, Helvetica, sans-serif;
+	color: #C91F16;
+	background: #CCCC66;
+	text-decoration: none;
+	
+} 
+
+.tableline {
+	border: 1px solid #333333;
+}
+.imageline {
+	padding: 2px;
+	border: 1px solid #666666;
+}
+.thintitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: oblique;
+	line-height: 24px;
+	font-weight: 100;
+	color: #333333;
+}
+.bottomline {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #333333;
+}
+h4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 16px;
+	font-weight: bold;
+	color: #333333;
+}
+.leftline {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #666666;
+}
+.paddingleft {
+	padding-left: 10px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #999999;
+}
+.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	line-height: 14px;
+	font-weight: normal;
+	color: #333333;
+}
+ul {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight: normal;
+	color: #333333;
+	list-style-type: circle;
+}
